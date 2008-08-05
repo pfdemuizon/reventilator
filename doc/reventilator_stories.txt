@@ -1,0 +1,23 @@
+Story 1:
+	NEW RAILS APP
+	GITHUB
+	CAP:DEPLOY
+	CRUISE
+	PLUGINS
+	
+Story 2:
+	RVentilator
+	Auth System
+	
+Story 3:
+	Create data models
+	calendar
+	site
+	DIA Distributed event 
+		Group
+		Admin User
+		
+Story 4 (output):
+	consolidate yaml files
+	config/sites
+	site/config.yml

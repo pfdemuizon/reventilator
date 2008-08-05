@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/openlaszlo"]
+	path = vendor/plugins/openlaszlo
+	url = git://github.com/osteele/openlaszlo-plugin.git
